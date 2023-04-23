@@ -16,7 +16,7 @@ $color-code: pink;
 $internal-links: orange;
 $external-links: chocolate;
 $invalid-links: $internal-links;
-$color-primary: orange;
+$color-primary: rgb(255, 255, 255);
 $color-secondary: blue;
 $color-box-shadow: none;
 
@@ -29,12 +29,12 @@ $color-item-border: none;
 $border-radius: 0px;
 
 /* --- Embeds, Sidenote and Footnote Colors --- */
-$embed-border: thin solid orange;
+$embed-border: thin solid rgb(255, 255, 255);
 $color-embed-background: black;
-$color-embed-title: orange;
+$color-embed-title: rgb(255, 255, 255);
 $color-embed-text: white;
 
-$footnote-border: thin solid orange;
+$footnote-border: thin solid rgb(255, 255, 255);
 $color-footnote-background: black;
 $color-footnote-text: white;
 
