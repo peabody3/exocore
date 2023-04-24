@@ -11,8 +11,12 @@
             "id": "68bdb0177a6320a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_wiki/usufruct.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_wiki/usufruct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_wiki/usufruct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_wiki/usufruct.md"
+              }
             }
           },
           {
@@ -150,11 +158,11 @@
   },
   "active": "e509f202f4abd033",
   "lastOpenFiles": [
+    "_daily/2023-04-23.md",
     "assets/imgs/BGs/bg-yotsuba.gif",
     "assets/imgs/bg-yotsuba.gif",
     "assets/imgs/bg-eva.gif",
     "assets/imgs/BGs/bg-eva.gif",
-    "_daily/2023-04-23.md",
     "_daily/2022-10-29.md",
     "_daily/2022-10-27.md",
     "_articles/table test.md",
